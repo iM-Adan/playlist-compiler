@@ -1,11 +1,11 @@
-# 🎓 YouTube Playlist Compiler
+# YouTube Playlist Compiler
 
 This application downloads an entire YouTube playlist, transcribes each video using Whisper AI, optionally merges all videos into a single video.
 Note: This project is still needs a lot(I mean alot) of work. Many planned features are listed in the roadmap below.
 
 ---
 
-## ✨ Features
+## Features
 
 ### Current Features
 
@@ -27,7 +27,7 @@ Note: This project is still needs a lot(I mean alot) of work. Many planned featu
 
 ---
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```text
 Playlist_compiler/
@@ -49,7 +49,7 @@ Playlist_compiler/
 
 ---
 
-## 📦 Installation
+## Installation
 
 ### 1. Clone Repository
 
@@ -69,7 +69,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🎬 FFmpeg Installation
+## FFmpeg Installation
 
 FFmpeg is required for:
 
@@ -131,7 +131,7 @@ Videos are merged into a single course video.
 
 ---
 
-## 📁 Output Files
+## Output Files
 
 Generated files include:
 
@@ -153,7 +153,7 @@ Or instead of course_output/ , you can paste path of the folder where you want t
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * Python
 * Streamlit
@@ -164,7 +164,7 @@ Or instead of course_output/ , you can paste path of the folder where you want t
 
 ---
 
-## 🔮 Roadmap
+##  Roadmap
 
 * [x] Playlist Download
 * [x] Video Transcription
@@ -176,15 +176,9 @@ Or instead of course_output/ , you can paste path of the folder where you want t
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, ideas, and feature requests are welcome.
 Feel free to open an issue or submit a pull request.
-
----
-
-## 📜 License
-
-MIT License
 
 ---
