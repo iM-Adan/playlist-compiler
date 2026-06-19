@@ -1,7 +1,7 @@
 # YouTube Playlist Compiler
 
 This application downloads an entire YouTube playlist, transcribes each video using Whisper AI, optionally merges all videos into a single video.
-Note: This project is still needs a lot(I mean alot) of work. Many planned features are listed in the roadmap below.
+>Note: This project is still needs a lot(I mean alot) of work. Many planned features are listed in the roadmap below.
 
 ---
 
